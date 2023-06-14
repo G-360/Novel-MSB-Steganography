@@ -2,7 +2,7 @@
 This repository entails an MSB steganography method for hiding text inside images with very little modification of the image. We use a special encoding technique to achieve this.
 
 <details>
-# <summary>Requirements</summary>
+<summary>**Requirements**</summary>
 
 This code uses Python 3.x.
 
